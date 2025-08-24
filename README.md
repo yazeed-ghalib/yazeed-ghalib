@@ -9,7 +9,7 @@
 <details>
 <p><strong> <summary> 🎧 Busy coding & vibing to: </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/yazeedghalib) <br>
 
 </details>
 
