@@ -1,7 +1,7 @@
 # Hi there, I'm Yazeed Ghalib 👋
 
 <div align="center">
-  <img width="100%" src="https://github.com/yazeedghalib/yazeedghalib/blob/master/assets/new_cover.png" alt="cover" />
+  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="cover" />
 </div>
 
 
@@ -17,7 +17,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <img width="70%" src="https://github.com/yazeedghalib/yazeedghalib/blob/master/assets/skills.png" alt="skills" />
+        <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="skills" />
       </td>
     </tr>
   </tbody>
