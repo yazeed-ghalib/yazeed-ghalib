@@ -1,7 +1,7 @@
 # Hi there, I'm Yazeed Ghalib 👋
 
 <div align="center">
-  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="cover" />
+  <img width="100%" src="https://github.com/yazeedghalib/yazeedghalib/blob/master/assets/new_cover.png" alt="cover" />
 </div>
 
 
@@ -17,7 +17,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="cover" />
+        <img width="70%" src="https://github.com/yazeedghalib/yazeedghalib/blob/master/assets/skills.png" alt="skills" />
       </td>
     </tr>
   </tbody>
@@ -35,22 +35,22 @@ Currently focusing on mastering backend systems, frontend design, and modern fra
 
 ## My Github stats
 
-<a href="https://github.com/yazeed-cis">
-  <img align="center" src="https://api.githubtrends.io/user/svg/yazeed-cis/langs?time_range=one_year&use_percent=True&theme=bright_lights" />
+<a href="https://github.com/yazeedghalib">
+  <img align="center" src="https://api.githubtrends.io/user/svg/yazeedghalib/langs?time_range=one_year&use_percent=True&theme=bright_lights" />
 </a>
-<a href="https://github.com/yazeed-cis">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yazeed-cis&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="yazeed-cis github stats"/>
+<a href="https://github.com/yazeedghalib">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yazeedghalib&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Yazeed Ghalib github stats"/>
 </a>
 
 <p>
   <b>For more Github info </b>
-  <a href="https://gitprofilee.netlify.app/user?id=yazeed-cis">check this</a>
+  <a href="https://gitprofilee.netlify.app/user?id=yazeedghalib">check this</a>
 </p>
 
 <br /><br />
 
 ## My Badges
-[![@yazeed-cis's Holopin board](https://holopin.io/api/user/board?user=yazeed-cis)](https://www.holopin.io/@yazeed-cis)
+[![@yazeedghalib's Holopin board](https://holopin.io/api/user/board?user=yazeedghalib)](https://www.holopin.io/@yazeedghalib)
 
 <br /><br />
 
