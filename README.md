@@ -39,7 +39,7 @@ I am always working on developing myself and gaining deeper experience in softwa
 <h2 class ="BlackSection">Education: </h2>
 <ul>
 <li>Hashemite University | Bachelor of <span class ="mportantWord">Computer Information Systems </span>(CIS)</li>
-<li>Duration: 2024 – 2026 (Expected Graduation)</li>
+<li>Duration: 2024 – 2028 (Expected Graduation)</li>
 <li>High School: Achieved a score of <span  class ="mportantWord"> 90% </span> in the General Secondary Education Certificate (Tawjihi).</li>
 </ul>
 <h4>Language :</h4>
